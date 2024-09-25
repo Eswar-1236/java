@@ -2,7 +2,6 @@ class testprivate{
     public static void main(String[] args){
         Account a=new Account();
         Account a1=new Account();
-
         a.set_acc_id(102);
         a.set_acc_name("Eswar");
         a1.set_acc_id(103);
